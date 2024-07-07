@@ -50,4 +50,12 @@
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Hassu083/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+## Math
+|  |
+| ------- |
+| [1642-water-bottles](https://github.com/Hassu083/LeetCode/tree/master/1642-water-bottles) |
+## Simulation
+|  |
+| ------- |
+| [1642-water-bottles](https://github.com/Hassu083/LeetCode/tree/master/1642-water-bottles) |
 <!---LeetCode Topics End-->
