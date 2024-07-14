@@ -58,4 +58,20 @@
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/Hassu083/LeetCode/tree/master/1642-water-bottles) |
+## Hash Table
+|  |
+| ------- |
+| [0726-number-of-atoms](https://github.com/Hassu083/LeetCode/tree/master/0726-number-of-atoms) |
+## String
+|  |
+| ------- |
+| [0726-number-of-atoms](https://github.com/Hassu083/LeetCode/tree/master/0726-number-of-atoms) |
+## Stack
+|  |
+| ------- |
+| [0726-number-of-atoms](https://github.com/Hassu083/LeetCode/tree/master/0726-number-of-atoms) |
+## Sorting
+|  |
+| ------- |
+| [0726-number-of-atoms](https://github.com/Hassu083/LeetCode/tree/master/0726-number-of-atoms) |
 <!---LeetCode Topics End-->
