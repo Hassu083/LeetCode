@@ -12,11 +12,11 @@ class Solution:
 
     def traverseGraph(self, k, graph, indeg):
         q = deque([i+1 for i in range(k) if indeg[i] == 0])
-        index = []
+        index = {}
         level = 0
         while q:
             node = q.popleft()
-            index.append(node)
+            index[node] = level
             for child in graph.get(node, []):
                 indeg[child-1] -= 1
                 if indeg[child-1] == 0:
@@ -26,10 +26,9 @@ class Solution:
 
     def formMatrix(self, k, row_index, col_index):
         matrix = [[0]*k for _ in range(k)]
-        for i in range(k):
-            for j in range(k):
-                if row_index[i] == col_index[j]:
-                    matrix[i][j] = row_index[i]
+        for i in range(1, k+1):
+            row, col = row_index[i], col_index[i]
+            matrix[row][col] = i
         return matrix
 
     def buildMatrix(self, k: int, rowConditions: List[List[int]], colConditions: List[List[int]]) -> List[List[int]]:
