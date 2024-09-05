@@ -88,6 +88,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [1263-number-of-dice-rolls-with-target-sum](https://github.com/Hassu083/LeetCode/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Hassu083/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Greedy
 |  |
