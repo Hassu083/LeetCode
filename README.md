@@ -56,10 +56,12 @@
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/Hassu083/LeetCode/tree/master/1642-water-bottles) |
+| [2155-find-missing-observations](https://github.com/Hassu083/LeetCode/tree/master/2155-find-missing-observations) |
 ## Simulation
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/Hassu083/LeetCode/tree/master/1642-water-bottles) |
+| [2155-find-missing-observations](https://github.com/Hassu083/LeetCode/tree/master/2155-find-missing-observations) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,6 +83,7 @@
 |  |
 | ------- |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Hassu083/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [2155-find-missing-observations](https://github.com/Hassu083/LeetCode/tree/master/2155-find-missing-observations) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Hassu083/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Dynamic Programming
 |  |
