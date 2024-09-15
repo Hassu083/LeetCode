@@ -86,6 +86,7 @@
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Hassu083/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2155-find-missing-observations](https://github.com/Hassu083/LeetCode/tree/master/2155-find-missing-observations) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Hassu083/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
+| [2730-maximum-or](https://github.com/Hassu083/LeetCode/tree/master/2730-maximum-or) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -97,6 +98,7 @@
 |  |
 | ------- |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Hassu083/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [2730-maximum-or](https://github.com/Hassu083/LeetCode/tree/master/2730-maximum-or) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -109,4 +111,12 @@
 |  |
 | ------- |
 | [2404-number-of-distinct-roll-sequences](https://github.com/Hassu083/LeetCode/tree/master/2404-number-of-distinct-roll-sequences) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2730-maximum-or](https://github.com/Hassu083/LeetCode/tree/master/2730-maximum-or) |
+## Prefix Sum
+|  |
+| ------- |
+| [2730-maximum-or](https://github.com/Hassu083/LeetCode/tree/master/2730-maximum-or) |
 <!---LeetCode Topics End-->
