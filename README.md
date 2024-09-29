@@ -65,6 +65,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/Hassu083/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0726-number-of-atoms](https://github.com/Hassu083/LeetCode/tree/master/0726-number-of-atoms) |
 ## String
 |  |
@@ -119,4 +120,16 @@
 |  |
 | ------- |
 | [2730-maximum-or](https://github.com/Hassu083/LeetCode/tree/master/2730-maximum-or) |
+## Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/Hassu083/LeetCode/tree/master/0432-all-oone-data-structure) |
+## Design
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/Hassu083/LeetCode/tree/master/0432-all-oone-data-structure) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/Hassu083/LeetCode/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
