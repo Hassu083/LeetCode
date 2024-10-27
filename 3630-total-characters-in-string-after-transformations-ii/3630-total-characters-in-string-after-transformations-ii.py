@@ -25,13 +25,12 @@ class Solution:
         mul = [[0] * 26 for _ in range(26)]
         for i in range(26):
             for c in range(i + 1, i + nums[i] + 1):
-                mul[c % 26][i] += 1
+                mul[i][c%26] += 1
         ctr = [0] * 26
         for c in s:
             ctr[ord(c) - ord('a')] += 1
         mul = mat_pow(mul, t)
-        res = [0] * 26
+        ans = 0
         for i in range(26):
-            for j in range(26):
-                res[i] = (res[i] + mul[i][j] * ctr[j]) % M
-        return sum(res) % M
+            ans = (ans + sum(mul[i]) * ctr[i]) % M
+        return ans % M
