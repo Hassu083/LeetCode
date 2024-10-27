@@ -84,6 +84,7 @@
 |  |
 | ------- |
 | [1343-dice-roll-simulation](https://github.com/Hassu083/LeetCode/tree/master/1343-dice-roll-simulation) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Hassu083/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Hassu083/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2155-find-missing-observations](https://github.com/Hassu083/LeetCode/tree/master/2155-find-missing-observations) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Hassu083/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
@@ -93,6 +94,7 @@
 | ------- |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/Hassu083/LeetCode/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1343-dice-roll-simulation](https://github.com/Hassu083/LeetCode/tree/master/1343-dice-roll-simulation) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Hassu083/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Hassu083/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2404-number-of-distinct-roll-sequences](https://github.com/Hassu083/LeetCode/tree/master/2404-number-of-distinct-roll-sequences) |
 ## Greedy
@@ -107,6 +109,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Hassu083/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Hassu083/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Memoization
 |  |
