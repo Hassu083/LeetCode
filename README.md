@@ -71,6 +71,7 @@
 |  |
 | ------- |
 | [0726-number-of-atoms](https://github.com/Hassu083/LeetCode/tree/master/0726-number-of-atoms) |
+| [0812-rotate-string](https://github.com/Hassu083/LeetCode/tree/master/0812-rotate-string) |
 ## Stack
 |  |
 | ------- |
@@ -135,4 +136,8 @@
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/Hassu083/LeetCode/tree/master/0432-all-oone-data-structure) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Hassu083/LeetCode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
