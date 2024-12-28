@@ -84,6 +84,7 @@
 ## Array
 |  |
 | ------- |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Hassu083/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1343-dice-roll-simulation](https://github.com/Hassu083/LeetCode/tree/master/1343-dice-roll-simulation) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Hassu083/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Hassu083/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -93,6 +94,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Hassu083/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/Hassu083/LeetCode/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1343-dice-roll-simulation](https://github.com/Hassu083/LeetCode/tree/master/1343-dice-roll-simulation) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Hassu083/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
