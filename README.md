@@ -104,6 +104,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Hassu083/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Hassu083/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2404-number-of-distinct-roll-sequences](https://github.com/Hassu083/LeetCode/tree/master/2404-number-of-distinct-roll-sequences) |
+| [2562-count-ways-to-build-good-strings](https://github.com/Hassu083/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
 ## Greedy
 |  |
 | ------- |
