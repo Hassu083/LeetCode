@@ -42,10 +42,12 @@
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Hassu083/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Hassu083/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Graph
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Hassu083/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Hassu083/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Hassu083/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Topological Sort
 |  |
@@ -89,6 +91,7 @@
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Hassu083/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1343-dice-roll-simulation](https://github.com/Hassu083/LeetCode/tree/master/1343-dice-roll-simulation) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Hassu083/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Hassu083/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Hassu083/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2155-find-missing-observations](https://github.com/Hassu083/LeetCode/tree/master/2155-find-missing-observations) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Hassu083/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
@@ -118,6 +121,7 @@
 |  |
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Hassu083/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Hassu083/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Hassu083/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Memoization
 |  |
@@ -147,4 +151,12 @@
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Hassu083/LeetCode/tree/master/0812-rotate-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Hassu083/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Hassu083/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 <!---LeetCode Topics End-->
