@@ -74,6 +74,7 @@
 | ------- |
 | [0726-number-of-atoms](https://github.com/Hassu083/LeetCode/tree/master/0726-number-of-atoms) |
 | [0812-rotate-string](https://github.com/Hassu083/LeetCode/tree/master/0812-rotate-string) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Hassu083/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Stack
 |  |
 | ------- |
@@ -105,6 +106,7 @@
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/Hassu083/LeetCode/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1343-dice-roll-simulation](https://github.com/Hassu083/LeetCode/tree/master/1343-dice-roll-simulation) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Hassu083/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Hassu083/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Hassu083/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2404-number-of-distinct-roll-sequences](https://github.com/Hassu083/LeetCode/tree/master/2404-number-of-distinct-roll-sequences) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Hassu083/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
