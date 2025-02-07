@@ -64,11 +64,13 @@
 | ------- |
 | [1642-water-bottles](https://github.com/Hassu083/LeetCode/tree/master/1642-water-bottles) |
 | [2155-find-missing-observations](https://github.com/Hassu083/LeetCode/tree/master/2155-find-missing-observations) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Hassu083/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Hash Table
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/Hassu083/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0726-number-of-atoms](https://github.com/Hassu083/LeetCode/tree/master/0726-number-of-atoms) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Hassu083/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## String
 |  |
 | ------- |
@@ -99,6 +101,7 @@
 | [2472-build-a-matrix-with-conditions](https://github.com/Hassu083/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2730-maximum-or](https://github.com/Hassu083/LeetCode/tree/master/2730-maximum-or) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Hassu083/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Hassu083/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Dynamic Programming
 |  |
 | ------- |
