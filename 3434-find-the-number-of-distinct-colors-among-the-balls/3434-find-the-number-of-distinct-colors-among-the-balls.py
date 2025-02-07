@@ -4,7 +4,7 @@ class Solution:
 
         res = []
         ball_to_color = {}
-        color_to_ball = defaultdict(set)
+        color_to_ball = {}
         ans = 0
         for ball, color in queries:
             if ball in ball_to_color:
@@ -14,6 +14,7 @@ class Solution:
                     del(color_to_ball[old_color])
                     ans -= 1
             if color not in color_to_ball:
+                color_to_ball[color] = set()
                 ans += 1
             color_to_ball[color].add(ball)
             ball_to_color[ball] = color
