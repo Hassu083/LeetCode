@@ -70,6 +70,7 @@
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/Hassu083/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0726-number-of-atoms](https://github.com/Hassu083/LeetCode/tree/master/0726-number-of-atoms) |
+| [2434-design-a-number-container-system](https://github.com/Hassu083/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Hassu083/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## String
 |  |
@@ -150,6 +151,7 @@
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/Hassu083/LeetCode/tree/master/0432-all-oone-data-structure) |
+| [2434-design-a-number-container-system](https://github.com/Hassu083/LeetCode/tree/master/2434-design-a-number-container-system) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -162,6 +164,7 @@
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Hassu083/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2434-design-a-number-container-system](https://github.com/Hassu083/LeetCode/tree/master/2434-design-a-number-container-system) |
 ## Shortest Path
 |  |
 | ------- |
@@ -170,4 +173,8 @@
 |  |
 | ------- |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Hassu083/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+## Ordered Set
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/Hassu083/LeetCode/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
